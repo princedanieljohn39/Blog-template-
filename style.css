@@ -9,11 +9,11 @@ ul {
   background-image: linear-gradient(to right, rgb(73, 100, 253) , rgb(0, 53, 144));
   border-radius: 30px;
 }
-
+/* created by codeninja  */
 li {
   float: left;
 }
-
+/* created by codeninja  */
 li a {
   font-family: poppins;
   display: block;
@@ -22,9 +22,10 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+/* created by codeninja  */
 p {
       font-family: poppins;
       padding-left: 55px;
       padding-right: 20px;
   }
-
+/* created by codeninja  */
